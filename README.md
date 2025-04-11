@@ -3,6 +3,7 @@
 ## Usage
 
 [Link to Website](https://zenbooker.netlify.app)
+
 [API Documentation](http://ams-dns.uaenorth.azurecontainer.io:8080/swagger/index.html)
 
 ## 📌 Tech Stack
