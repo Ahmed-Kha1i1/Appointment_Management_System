@@ -2,7 +2,7 @@
 
 ## Usage
 
-[Link to Website](https://zenbooker.netlify.app)
+[Link to Website](https://zenbooker.netlify.app/signin)
 
 [API Documentation](http://ams-dns.uaenorth.azurecontainer.io:8080/swagger/index.html)
 
